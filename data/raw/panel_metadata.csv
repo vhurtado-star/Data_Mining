@@ -1,0 +1,4 @@
+panel_id,manufacturer,rated_capacity_w,install_year,location_id
+PANEL_01,SolarTech,350,2024,LOC_A
+PANEL_02,EcoEnergy,400,2025,LOC_A
+PANEL_03,NovaPower,380,2023,LOC_B

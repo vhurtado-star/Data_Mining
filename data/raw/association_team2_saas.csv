@@ -1,0 +1,552 @@
+account_id,feature_module
+2002,SSO Integration
+2002,Audit Logs
+2002,Role-Based Access
+2002,Custom Dashboards
+2002,Advanced Analytics
+2003,Custom Dashboards
+2003,Advanced Analytics
+2004,SSO Integration
+2004,Audit Logs
+2004,Role-Based Access
+2004,Custom Dashboards
+2004,Advanced Analytics
+2005,Custom Dashboards
+2005,Advanced Analytics
+2005,Automated Backups
+2006,SSO Integration
+2006,Audit Logs
+2006,Role-Based Access
+2006,Automated Backups
+2007,API Rate Boost
+2007,SLA Guarantee
+2008,SSO Integration
+2008,Audit Logs
+2008,Role-Based Access
+2009,SSO Integration
+2009,Audit Logs
+2009,Role-Based Access
+2009,Automated Backups
+2010,Custom Dashboards
+2010,Advanced Analytics
+2010,Automated Backups
+2011,Custom Dashboards
+2011,Advanced Analytics
+2012,SSO Integration
+2012,Audit Logs
+2013,API Rate Boost
+2013,SLA Guarantee
+2013,Automated Backups
+2014,SSO Integration
+2014,Audit Logs
+2014,Role-Based Access
+2014,Custom Dashboards
+2014,Advanced Analytics
+2014,API Rate Boost
+2014,SLA Guarantee
+2015,Custom Dashboards
+2015,Advanced Analytics
+2015,Automated Backups
+2016,Custom Dashboards
+2016,Advanced Analytics
+2017,SSO Integration
+2017,Audit Logs
+2017,Role-Based Access
+2018,Custom Dashboards
+2018,Advanced Analytics
+2018,Automated Backups
+2019,Automated Backups
+2020,SSO Integration
+2020,Audit Logs
+2020,Role-Based Access
+2021,Custom Dashboards
+2021,Advanced Analytics
+2023,Custom Dashboards
+2023,Advanced Analytics
+2023,API Rate Boost
+2023,SLA Guarantee
+2023,Automated Backups
+2024,Custom Dashboards
+2024,Advanced Analytics
+2025,SSO Integration
+2025,Audit Logs
+2025,Role-Based Access
+2025,API Rate Boost
+2025,SLA Guarantee
+2025,Automated Backups
+2026,SSO Integration
+2026,Audit Logs
+2026,Role-Based Access
+2027,API Rate Boost
+2027,SLA Guarantee
+2028,Automated Backups
+2029,SSO Integration
+2029,Audit Logs
+2029,Role-Based Access
+2030,SSO Integration
+2030,Audit Logs
+2030,Role-Based Access
+2030,API Rate Boost
+2030,SLA Guarantee
+2030,Automated Backups
+2031,SSO Integration
+2031,Audit Logs
+2031,Custom Dashboards
+2031,Advanced Analytics
+2032,Automated Backups
+2033,Custom Dashboards
+2033,Advanced Analytics
+2033,API Rate Boost
+2033,SLA Guarantee
+2033,Automated Backups
+2034,API Rate Boost
+2034,SLA Guarantee
+2034,Automated Backups
+2035,Custom Dashboards
+2035,Advanced Analytics
+2035,API Rate Boost
+2035,SLA Guarantee
+2035,Automated Backups
+2036,Custom Dashboards
+2036,Advanced Analytics
+2037,SSO Integration
+2037,Audit Logs
+2037,Custom Dashboards
+2037,Advanced Analytics
+2038,Custom Dashboards
+2038,Advanced Analytics
+2038,Automated Backups
+2039,SSO Integration
+2039,Audit Logs
+2039,Role-Based Access
+2039,Automated Backups
+2040,Custom Dashboards
+2040,Advanced Analytics
+2040,Automated Backups
+2041,Custom Dashboards
+2041,Advanced Analytics
+2041,Automated Backups
+2042,SSO Integration
+2042,Audit Logs
+2042,Role-Based Access
+2042,Automated Backups
+2044,SSO Integration
+2044,Audit Logs
+2044,Role-Based Access
+2045,SSO Integration
+2045,Audit Logs
+2045,Role-Based Access
+2046,API Rate Boost
+2046,SLA Guarantee
+2046,Automated Backups
+2047,API Rate Boost
+2047,SLA Guarantee
+2047,Automated Backups
+2048,Custom Dashboards
+2048,Advanced Analytics
+2048,API Rate Boost
+2048,SLA Guarantee
+2049,API Rate Boost
+2049,SLA Guarantee
+2050,SSO Integration
+2050,Audit Logs
+2050,Role-Based Access
+2051,API Rate Boost
+2051,SLA Guarantee
+2051,Automated Backups
+2052,SSO Integration
+2052,Audit Logs
+2052,Role-Based Access
+2054,Custom Dashboards
+2054,Advanced Analytics
+2054,Automated Backups
+2055,SSO Integration
+2055,Audit Logs
+2055,Custom Dashboards
+2055,Advanced Analytics
+2056,Custom Dashboards
+2056,Advanced Analytics
+2056,API Rate Boost
+2056,SLA Guarantee
+2058,SSO Integration
+2058,Audit Logs
+2058,Role-Based Access
+2058,Automated Backups
+2060,SSO Integration
+2060,Audit Logs
+2060,API Rate Boost
+2060,SLA Guarantee
+2062,Custom Dashboards
+2062,Advanced Analytics
+2065,Custom Dashboards
+2065,Advanced Analytics
+2065,Automated Backups
+2066,Custom Dashboards
+2066,Advanced Analytics
+2067,SSO Integration
+2067,Audit Logs
+2067,Role-Based Access
+2067,Custom Dashboards
+2067,Advanced Analytics
+2067,API Rate Boost
+2067,SLA Guarantee
+2068,Custom Dashboards
+2068,Advanced Analytics
+2069,SSO Integration
+2069,Audit Logs
+2069,Custom Dashboards
+2069,Advanced Analytics
+2069,API Rate Boost
+2069,SLA Guarantee
+2071,Custom Dashboards
+2071,Advanced Analytics
+2071,Automated Backups
+2072,Custom Dashboards
+2072,Advanced Analytics
+2072,API Rate Boost
+2072,SLA Guarantee
+2073,Automated Backups
+2074,SSO Integration
+2074,Audit Logs
+2074,Role-Based Access
+2075,SSO Integration
+2075,Audit Logs
+2076,Custom Dashboards
+2076,Advanced Analytics
+2077,SSO Integration
+2077,Audit Logs
+2077,Role-Based Access
+2077,Custom Dashboards
+2077,Advanced Analytics
+2077,API Rate Boost
+2077,SLA Guarantee
+2078,API Rate Boost
+2078,SLA Guarantee
+2078,Automated Backups
+2079,Custom Dashboards
+2079,Advanced Analytics
+2079,Automated Backups
+2080,API Rate Boost
+2080,SLA Guarantee
+2080,Automated Backups
+2082,SSO Integration
+2082,Audit Logs
+2082,Role-Based Access
+2082,API Rate Boost
+2082,SLA Guarantee
+2084,Automated Backups
+2085,API Rate Boost
+2085,SLA Guarantee
+2085,Automated Backups
+2086,SSO Integration
+2086,Audit Logs
+2086,Role-Based Access
+2086,Custom Dashboards
+2086,Advanced Analytics
+2086,Automated Backups
+2087,SSO Integration
+2087,Audit Logs
+2087,Custom Dashboards
+2087,Advanced Analytics
+2087,Automated Backups
+2088,SSO Integration
+2088,Audit Logs
+2089,Custom Dashboards
+2089,Advanced Analytics
+2089,API Rate Boost
+2089,SLA Guarantee
+2090,Automated Backups
+2091,Custom Dashboards
+2091,Advanced Analytics
+2092,Automated Backups
+2093,Automated Backups
+2094,Custom Dashboards
+2094,Advanced Analytics
+2094,API Rate Boost
+2094,SLA Guarantee
+2095,SSO Integration
+2095,Audit Logs
+2095,Role-Based Access
+2096,API Rate Boost
+2096,SLA Guarantee
+2096,Automated Backups
+2098,SSO Integration
+2098,Audit Logs
+2098,Role-Based Access
+2098,Custom Dashboards
+2098,Advanced Analytics
+2098,Automated Backups
+2099,Custom Dashboards
+2099,Advanced Analytics
+2099,API Rate Boost
+2099,SLA Guarantee
+2099,Automated Backups
+2100,API Rate Boost
+2100,SLA Guarantee
+2100,Automated Backups
+2101,Custom Dashboards
+2101,Advanced Analytics
+2102,SSO Integration
+2102,Audit Logs
+2102,Role-Based Access
+2102,Automated Backups
+2104,Custom Dashboards
+2104,Advanced Analytics
+2105,API Rate Boost
+2105,SLA Guarantee
+2105,Automated Backups
+2106,SSO Integration
+2106,Audit Logs
+2106,Role-Based Access
+2106,Custom Dashboards
+2106,Advanced Analytics
+2106,API Rate Boost
+2106,SLA Guarantee
+2106,Automated Backups
+2108,Custom Dashboards
+2108,Advanced Analytics
+2108,Automated Backups
+2109,Custom Dashboards
+2109,Advanced Analytics
+2109,Automated Backups
+2110,Automated Backups
+2113,Custom Dashboards
+2113,Advanced Analytics
+2113,API Rate Boost
+2113,SLA Guarantee
+2114,Automated Backups
+2115,SSO Integration
+2115,Audit Logs
+2115,Role-Based Access
+2115,Custom Dashboards
+2115,Advanced Analytics
+2115,Automated Backups
+2117,SSO Integration
+2117,Audit Logs
+2117,API Rate Boost
+2117,SLA Guarantee
+2119,Automated Backups
+2120,SSO Integration
+2120,Audit Logs
+2120,Role-Based Access
+2120,Automated Backups
+2121,Custom Dashboards
+2121,Advanced Analytics
+2122,Automated Backups
+2123,SSO Integration
+2123,Audit Logs
+2125,SSO Integration
+2125,Audit Logs
+2125,Role-Based Access
+2125,Custom Dashboards
+2125,Advanced Analytics
+2126,SSO Integration
+2126,Audit Logs
+2126,Automated Backups
+2129,Custom Dashboards
+2129,Advanced Analytics
+2129,API Rate Boost
+2129,SLA Guarantee
+2130,API Rate Boost
+2130,SLA Guarantee
+2130,Automated Backups
+2131,SSO Integration
+2131,Audit Logs
+2131,Role-Based Access
+2131,Automated Backups
+2132,Custom Dashboards
+2132,Advanced Analytics
+2134,SSO Integration
+2134,Audit Logs
+2134,API Rate Boost
+2134,SLA Guarantee
+2134,Automated Backups
+2136,SSO Integration
+2136,Audit Logs
+2136,Role-Based Access
+2136,Custom Dashboards
+2136,Advanced Analytics
+2136,API Rate Boost
+2136,SLA Guarantee
+2136,Automated Backups
+2137,SSO Integration
+2137,Audit Logs
+2137,Custom Dashboards
+2137,Advanced Analytics
+2138,API Rate Boost
+2138,SLA Guarantee
+2138,Automated Backups
+2139,SSO Integration
+2139,Audit Logs
+2139,Role-Based Access
+2139,Custom Dashboards
+2139,Advanced Analytics
+2139,API Rate Boost
+2139,SLA Guarantee
+2139,Automated Backups
+2140,SSO Integration
+2140,Audit Logs
+2140,Role-Based Access
+2140,Custom Dashboards
+2140,Advanced Analytics
+2141,Custom Dashboards
+2141,Advanced Analytics
+2142,SSO Integration
+2142,Audit Logs
+2142,API Rate Boost
+2142,SLA Guarantee
+2142,Automated Backups
+2143,API Rate Boost
+2143,SLA Guarantee
+2143,Automated Backups
+2144,Automated Backups
+2145,API Rate Boost
+2145,SLA Guarantee
+2145,Automated Backups
+2147,SSO Integration
+2147,Audit Logs
+2147,Role-Based Access
+2147,API Rate Boost
+2147,SLA Guarantee
+2147,Automated Backups
+2148,Custom Dashboards
+2148,Advanced Analytics
+2148,Automated Backups
+2149,SSO Integration
+2149,Audit Logs
+2149,Role-Based Access
+2150,API Rate Boost
+2150,SLA Guarantee
+2151,Automated Backups
+2152,SSO Integration
+2152,Audit Logs
+2152,Role-Based Access
+2152,Automated Backups
+2153,API Rate Boost
+2153,SLA Guarantee
+2153,Automated Backups
+2154,SSO Integration
+2154,Audit Logs
+2154,Role-Based Access
+2154,Custom Dashboards
+2154,Advanced Analytics
+2154,API Rate Boost
+2154,SLA Guarantee
+2154,Automated Backups
+2155,SSO Integration
+2155,Audit Logs
+2155,Custom Dashboards
+2155,Advanced Analytics
+2155,Automated Backups
+2156,Custom Dashboards
+2156,Advanced Analytics
+2157,API Rate Boost
+2157,SLA Guarantee
+2157,Automated Backups
+2159,SSO Integration
+2159,Audit Logs
+2159,Custom Dashboards
+2159,Advanced Analytics
+2159,Automated Backups
+2160,Custom Dashboards
+2160,Advanced Analytics
+2160,API Rate Boost
+2160,SLA Guarantee
+2161,SSO Integration
+2161,Audit Logs
+2161,Role-Based Access
+2161,Custom Dashboards
+2161,Advanced Analytics
+2162,SSO Integration
+2162,Audit Logs
+2162,Role-Based Access
+2162,Custom Dashboards
+2162,Advanced Analytics
+2162,API Rate Boost
+2162,SLA Guarantee
+2163,SSO Integration
+2163,Audit Logs
+2163,Custom Dashboards
+2163,Advanced Analytics
+2164,Automated Backups
+2165,Automated Backups
+2166,API Rate Boost
+2166,SLA Guarantee
+2166,Automated Backups
+2167,Automated Backups
+2168,Custom Dashboards
+2168,Advanced Analytics
+2168,API Rate Boost
+2168,SLA Guarantee
+2168,Automated Backups
+2169,Automated Backups
+2170,Custom Dashboards
+2170,Advanced Analytics
+2170,Automated Backups
+2172,Custom Dashboards
+2172,Advanced Analytics
+2172,Automated Backups
+2173,Automated Backups
+2174,Automated Backups
+2176,Custom Dashboards
+2176,Advanced Analytics
+2176,Automated Backups
+2177,Custom Dashboards
+2177,Advanced Analytics
+2178,Custom Dashboards
+2178,Advanced Analytics
+2178,Automated Backups
+2179,Custom Dashboards
+2179,Advanced Analytics
+2180,SSO Integration
+2180,Audit Logs
+2180,Role-Based Access
+2181,API Rate Boost
+2181,SLA Guarantee
+2181,Automated Backups
+2182,SSO Integration
+2182,Audit Logs
+2182,Automated Backups
+2183,Custom Dashboards
+2183,Advanced Analytics
+2184,Custom Dashboards
+2184,Advanced Analytics
+2186,SSO Integration
+2186,Audit Logs
+2186,Role-Based Access
+2187,Automated Backups
+2188,API Rate Boost
+2188,SLA Guarantee
+2189,Automated Backups
+2190,SSO Integration
+2190,Audit Logs
+2190,Role-Based Access
+2190,API Rate Boost
+2190,SLA Guarantee
+2190,Automated Backups
+2191,Automated Backups
+2192,SSO Integration
+2192,Audit Logs
+2192,API Rate Boost
+2192,SLA Guarantee
+2192,Automated Backups
+2193,SSO Integration
+2193,Audit Logs
+2193,Role-Based Access
+2194,Automated Backups
+2195,Custom Dashboards
+2195,Advanced Analytics
+2195,Automated Backups
+2196,Custom Dashboards
+2196,Advanced Analytics
+2197,Custom Dashboards
+2197,Advanced Analytics
+2197,Automated Backups
+2198,Custom Dashboards
+2198,Advanced Analytics
+2198,API Rate Boost
+2198,SLA Guarantee
+2198,Automated Backups
+2199,API Rate Boost
+2199,SLA Guarantee
+2200,Automated Backups
